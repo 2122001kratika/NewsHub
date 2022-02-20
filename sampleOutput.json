@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Derrick Bryson Taylor, Mike Ives",
+            "title": "Australian Aid Ship Docks in Tonga With a Covid Outbreak - The New York Times",
+            "description": "Twenty-three people aboard the ship have tested positive for the virus, prompting concerns that it could spread to Tonga. The volcano-stricken island has reported only one case during the pandemic.",
+            "url": "https://www.nytimes.com/2022/01/25/world/asia/tonga-aid-ship-covid.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/01/25/us/25virus-briefing-tonga/25virus-briefing-tonga-facebookJumbo-v2.jpg",
+            "publishedAt": "2022-01-26T14:34:00Z",
+            "content": "At least three people were killed, and the scale of the disaster is still coming into focus, in part because the eruption cut off the nations lone connection to the internet. The outbreak on the Aust… [+1143 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Boeing Rises Despite Q4 Miss, Charges On 787, KC-46 Programs - Investor's Business Daily",
+            "description": "Boeing took a $3.5 billion pre-tax charge on the 787 Dreamliner program as discussions with the FAA are taking longer than expected.",
+            "url": "https://www.investors.com/news/boeing-stock-q4-loss-revenue-737-max-defense/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2022/01/Stock-BoeingEVTOL-02-company.jpg",
+            "publishedAt": "2022-01-26T14:20:00Z",
+            "content": "Boeing's (BA) fourth-quarter results fell short of analyst expectations as it saw charges on its 787 Dreamliner and KC-46 programs. Boeing fell slightly early Wednesday.\r\nXBoeing reported a loss of $… [+2879 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Pokémon Legends: Arceus Review - GameSpot",
+            "description": "Pokémon Legends: Arceus is a significant reimagining of what makes a Pokémon game, with an exciting level of flexibility that's only slightly hampered by a s...",
+            "url": "https://www.youtube.com/watch?v=_6znWl9yFVw",
+            "urlToImage": "https://i.ytimg.com/vi/_6znWl9yFVw/hqdefault.jpg",
+            "publishedAt": "2022-01-26T14:00:32Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "NVIDIA GeForce RTX 3050 GPU Review & Benchmarks - Gamers Nexus",
+            "description": "This review of the EVGA (NVIDIA) RTX 3050 video card offers benchmarks vs. the RTX 3060, RX 6500 XT, GTX 970 & 1070 in 2022, and many more. We test gaming an...",
+            "url": "https://www.youtube.com/watch?v=r2NNegA77uA",
+            "urlToImage": "https://i.ytimg.com/vi/r2NNegA77uA/maxresdefault.jpg",
+            "publishedAt": "2022-01-26T14:00:24Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Caitlin Ostroff",
+            "title": "Stocks Open Higher as Fed Rates Call Looms - The Wall Street Journal",
+            "description": "Investors parse earnings from more big-name companies",
+            "url": "https://www.wsj.com/articles/global-stocks-markets-dow-update-01-26-2022-11643185943",
+            "urlToImage": "https://images.wsj.net/im-474317/social",
+            "publishedAt": "2022-01-26T13:57:00Z",
+            "content": "U.S. stocks posted strong gains ahead of a Federal Reserve announcement that is expected to provide more clarity on coming interest-rate increasesthe prospect of which spooked markets this week. \r\nTh… [+269 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kylie Atwood and Jennifer Hansler, CNN",
+            "title": "Biden admin to send Russia written responses as soon as Wednesday - CNN",
+            "description": "The Biden administration is set to send Russia a written response to concerns Moscow has publicly released and US proposals on a path forward as soon as Wednesday, according to administration officials, but the response is unlikely to characterize the likelih…",
+            "url": "https://www.cnn.com/2022/01/26/politics/us-russia-ukraine/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220126133031-02-biden-admin-to-send-russia-written-responses-as-soon-as-wednesday-super-tease.jpg",
+            "publishedAt": "2022-01-26T13:32:00Z",
+            "content": "(CNN)The Biden administration is set to send Russia a written response to concerns Moscow has publicly released and US proposals on a path forward as soon as Wednesday, according to administration of… [+4120 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Christina Christina, Nicole Sganga",
+            "title": "DHS says U.S. on \"heightened alert\" for Russian cyberattack - CBS News",
+            "description": "\"Russia's threshold for conducting disruptive or destructive cyber attacks in the Homeland probably remains very high,\" a new Homeland Security bulletin warns.",
+            "url": "https://www.cbsnews.com/news/russian-cyberattack-high-alert-united-states/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2022/01/24/7ca5e4dc-7485-4c77-bb14-ee4f461b5f0c/thumbnail/1200x630/3f8551a4b5bfe6316fd947bc82379dac/gettyimages-1237729106.jpg",
+            "publishedAt": "2022-01-26T13:13:27Z",
+            "content": "With more than 100,000 Russian troops poised at the Ukrainian border, the Department of Homeland Security is warning that Russia could conduct a cyberattack against the United States if it feels thre… [+4204 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WDSU New Orleans"
+            },
+            "author": "WDSU Digital Team",
+            "title": "New Orleans Saints players react to Sean Payton stepping down - WDSU New Orleans",
+            "description": "Sean Payton will formally announce his retirement in a news conference at 3 p.m.",
+            "url": "https://www.wdsu.com/article/new-orleans-saints-players-sean-payton-retirement/38885183",
+            "urlToImage": "https://kubrick.htvapps.com/vidthumb/5bcd1d9e-6277-4273-a290-1df6fbeea34e/thumb_1920x1080_00002_1643087751_30082.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+            "publishedAt": "2022-01-26T13:01:00Z",
+            "content": "NEW ORLEANS —New Orleans Saints players new and old are reacting to the news of Sean Payton's departure from the team. \r\nSean Payton formally announced he was stepping down in a news conference at 3 … [+2281 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Megan Megan",
+            "title": "Many stores expect to offer free government-issued N95 masks this week - CBS News",
+            "description": "For most Americans, getting their hands on the higher quality masks will require some patience.",
+            "url": "https://www.cbsnews.com/news/free-n95-mask-how-to-get/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2022/01/24/222d6470-5fb8-45f8-b30a-db9d1130d1f6/thumbnail/1200x630/9dc9959109f17a22c8d5be3929a19dbc/img-4991.jpg",
+            "publishedAt": "2022-01-26T12:54:16Z",
+            "content": "White House officials pledged last week to make 400 million certified N95 masks available to Americans for free in an effort to shore up the nation's defenses against COVID-19. But consumers may have… [+4682 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WMTW Portland"
+            },
+            "author": "Ted McInerney",
+            "title": "Nor'easter likely to hit Maine this weekend: What we know about the storm - WMTW Portland",
+            "description": "It is looking more likely that Maine will get hit by a strong winter nor'easter this weekend. Here's what we know about the storm threat.",
+            "url": "https://www.wmtw.com/article/maine-noreaster-storm-snow-flooding-wind-saturday/38895311",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/weekend-preview-1643200568.png?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+            "publishedAt": "2022-01-26T12:51:00Z",
+            "content": "PORTLAND, Maine —Arctic air has returned to Maine, with below zero temperatures likely Wednesday night into Thursday morning. The cold air will serve as a primer for a major winter storm on Saturday.… [+1236 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kevin Liptak, CNN",
+            "title": "Biden says no one knows what Putin will do after White House called Russian invasion of Ukraine 'imminent' - CNN",
+            "description": "President Joe Biden acknowledged Tuesday a deeply uncertain situation at the Ukraine border, where Russian troops are amassing but few observers have any definitive knowledge of whether or when they might invade.",
+            "url": "https://www.cnn.com/2022/01/25/politics/white-house-ukraine-russia/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220119181329-joe-biden-vladimir-putin-split-for-video-super-tease.jpg",
+            "publishedAt": "2022-01-26T12:02:00Z",
+            "content": "Washington (CNN)President Joe Biden acknowledged Tuesday a deeply uncertain situation at the Ukraine border, where Russian troops are amassing but few observers have any definitive knowledge of wheth… [+6184 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Who will be on 2023 Baseball Hall of Fame ballot? Carlos Beltrán, K-Rod biggest names set to join - CBS Sports",
+            "description": "Scott Rolen and Todd Helton lead the holdovers while Beltrán joins the fray as a newcomer",
+            "url": "https://www.cbssports.com/mlb/news/who-will-be-on-2023-baseball-hall-of-fame-ballot-carlos-beltran-k-rod-biggest-names-set-to-join/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/01/24/b3ccdb5e-f0a1-4254-a88c-3a0b9017a947/thumbnail/1200x675/2466423c9806c6daa4f921c801870e6c/beltran-1.png",
+            "publishedAt": "2022-01-26T12:00:00Z",
+            "content": "The dust is still settling on the 2022 Baseball Hall of Fame ballot. We now know that David Ortiz has made it into the Hall in his first try while some huge names, including Barry Bonds and Roger Cle… [+2623 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Sam Shead",
+            "title": "Intel has $1.2 billion antitrust fine overturned by EU court - CNBC",
+            "description": "A European Union court has overturned a 1.06 billion euro ($1.2 billion) antitrust fine that was levied against U.S. chipmaker Intel in 2009.",
+            "url": "https://www.cnbc.com/2022/01/26/intel-has-1point2-billion-antitrust-fine-overturned-by-eu-court-.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106900219-16242877882021-06-21t150028z_2115306011_rc235o9zpbye_rtrmadp_0_intel-reliance.jpeg?v=1624287891",
+            "publishedAt": "2022-01-26T11:41:23Z",
+            "content": "A prominent European Union court has overturned a 1.06 billion euro ($1.2 billion) antitrust fine that was levied against U.S. chipmaker Intel in 2009.\r\nThe fine was handed out by the European Commis… [+1184 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Times of Israel"
+            },
+            "author": null,
+            "title": "Researchers discover ‘antibody signature’ that may explain why some get long COVID - The Times of Israel",
+            "description": "Team lead hopes findings will help in early identification of patients at increased risk of illness, in turn facilitating research and development of targeted treatments",
+            "url": "https://www.timesofisrael.com/researchers-discover-antibody-signature-that-may-explain-why-some-get-long-covid/",
+            "urlToImage": "https://static.timesofisrael.com/www/uploads/2022/01/F220121ZEL02-1-1024x640.jpg",
+            "publishedAt": "2022-01-26T11:15:43Z",
+            "content": "Researchers have discovered an “antibody signature” that can be used to identify patients who have a high risk of developing long COVID, a condition in which debilitating symptoms can persist for man… [+2308 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Christopher Clarey, Ben Rothenberg",
+            "title": "Where Is Peng Shuai? Tennis Players and Fans Still Want to Know - The New York Times",
+            "description": "A central question, “Where is Peng Shuai?”, has represented concern for the star but also points to related questions about the future of tennis in China.",
+            "url": "https://www.nytimes.com/2022/01/26/sports/tennis/peng-shuai-china-australian-open.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/01/26/sports/26aus-china1/merlin_199503951_9c695f25-2b8e-41b4-9c97-bf91de7aa190-facebookJumbo.jpg",
+            "publishedAt": "2022-01-26T10:00:24Z",
+            "content": "But Chinese television did not broadcast the womens tournaments in 2022 that were played ahead of the Open despite owning the rights. It is unclear whether this constitutes a boycott. In 2019, CCTV s… [+2268 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Gretchen Reynolds",
+            "title": "Walking Just 10 Minutes a Day May Lead to a Longer Life - The New York Times",
+            "description": "Ten minutes of moderate exercise daily would prevent more than 111,000 premature deaths a year, a new analysis found.",
+            "url": "https://www.nytimes.com/2022/01/26/well/10-minutes-walking-exercise.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/01/26/well/26physed-10minutes/26physed-10minutes-facebookJumbo.jpg",
+            "publishedAt": "2022-01-26T10:00:09Z",
+            "content": "If almost all of us started walking for an extra 10 minutes a day, we could, collectively, prevent more than 111,000 deaths every year, according to an enlightening new study of movement and mortalit… [+2508 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Beast"
+            },
+            "author": "Matt Wilstein",
+            "title": "Colbert Proves Fox News' Peter Doocy Really Is That 'Stupid' - The Daily Beast",
+            "description": "“He has tested positive for stupid in the past,” the “Late Show” host said of Doocy, who President Biden called a “stupid son of a bitch” this week.",
+            "url": "https://www.thedailybeast.com/stephen-colbert-proves-fox-news-peter-doocy-really-is-that-stupid",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1440,w_2560,x_0,y_35/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1643174064/SC_42_mncq6k",
+            "publishedAt": "2022-01-26T09:40:26Z",
+            "content": "Stephen Colbert began his Late Show monologue Tuesday night by explaining that one of things he admires most about President Joe Biden is that hes a straight-shooter.\r\nAfter a year of holding his ton… [+1537 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Lance Ulanoff",
+            "title": "Samsung Galaxy S22 launch officially set for February 9 - TechRadar",
+            "description": "Samsung locks in the date for the Galaxy S22 phone -- and possibly other devices",
+            "url": "https://www.techradar.com/news/samsung-galaxy-s22-unveil-now-officially-set-for-february-9",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/JZeHWKtKAMgzRGLx7zNtjV-1200-80.jpg",
+            "publishedAt": "2022-01-26T09:33:07Z",
+            "content": "Samsung has officially set its Galaxy Unpacked date for February 9, finally dropping into place the last piece of what everyone believes is the Samsung Galaxy S22 launch puzzle.\r\nThe virtual event ki… [+1604 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "'Euphoria' Hurting Real-Life Kids by Glamorizing Drugs, Says D.A.R.E. - TMZ",
+            "description": "Depicting ODs in graphic fashion is not the way to get through to kids, so says D.A.R.E.",
+            "url": "https://www.tmz.com/2022/01/26/euphoria-glamorize-drug-use-tv-hbo-dare-kids/",
+            "urlToImage": "https://imagez.tmz.com/image/fc/16by9/2022/01/25/fcc0568aa2534c8b8a8f155e4c03ca58_xl.jpg",
+            "publishedAt": "2022-01-26T09:00:00Z",
+            "content": "HBO might think its revolutionary to show Zendaya snorting it up on camera, but one group is just saying no to TV drug use ... yep, you guessed it!\r\nThe good folks at D.A.R.E (yes, its still around, … [+2199 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Katrin Bennhold",
+            "title": "Where Is Germany in the Ukraine Standoff? Its Allies Wonder. - The New York Times",
+            "description": "Germany’s allies have begun to question what price Berlin is prepared to pay to deter Russia, and even its reliability as an ally, as it wavers on tough measures.",
+            "url": "https://www.nytimes.com/2022/01/25/world/europe/germany-russia-nato-ukraine.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/01/25/world/25germany-russia02-promo/25germany-russia02-promo-facebookJumbo-v2.jpg",
+            "publishedAt": "2022-01-26T08:50:00Z",
+            "content": "The new Green Party foreign minister, Annalena Baerbock, has been more outspoken on being tougher on Russia. But even she has drawn a line on sending German arms to Ukraine, citing history.\r\nThe arms… [+852 chars]"
+        }
+    ]
+}
